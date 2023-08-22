@@ -114,6 +114,10 @@ float: right;
 margin-left: 30px;
 }
 /******************************************BUTTON GENERATOR***************************************************/
+.buton:hover {
+  background: #3cb0fd;
+
+}
 .btn {
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
@@ -141,8 +145,5 @@ margin-left: 30px;
   text-decoration: none;
 }
 
-.buton:hover {
-  background: #3cb0fd;
 
-}
 /*******************************************END OF BUTTON GENERATOR CODE********************************************/
